@@ -11,5 +11,5 @@ Backup previous configuration:
 
 Pull this one:
 ```
-    git pull https://github.com/govorushkin/RahnVim.git
+    git clone https://github.com/govorushkin/RahnVim.git
 ```
